@@ -1,2 +1,5 @@
 // user: yuzhj added 1st txt file.
 The date of today is 9-28, now i am in office using the git to design my version edit.
+
+2nd version has to be updated.
+
